@@ -9,6 +9,6 @@ an anlysis of job-relevant knowledge, skills, abilities, and other characteristi
 <b>Assessment Validation Report:</b> This validation report was completed during a practicum. I worked with a team of other students complete the project for a company offering talent
 assessment instruments. We were tasked with analyzing performance and assessment data from a real-estate firm to see whether the company's instrument successfully predicted performance.
 I was involved in, and sometimes solely responsible for, every part of the project, including data cleaning, preliminary analysis, correlational and regression analyses, and final
-report writeup. FINISH THIS LATER
+report writeup. Certain details have been omitted or changed, such as the name and details about the companies involved and the names of the instrument scales and variables.
 
 !!FINISH WRITING AND EDITING THIS!!
