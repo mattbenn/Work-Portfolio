@@ -1,6 +1,6 @@
 This folder contains selected projects I worked on while completing my master's degree in Industrial-Organizational Psychology at the University at Albany. Below, there is a link to reports in .docx format.
 
-<a href="https://livealbany-my.sharepoint.com/:f:/g/personal/mbennett3_albany_edu/EnBnAYRA2tRJr4smWCx4y8ABHC_EPR5HifOx8wja4Mae-A?e=daun9h" target="_blank" rel="noopener noreferrer"><b>Reports:</b></a>
+<a href="https://livealbany-my.sharepoint.com/:f:/g/personal/mbennett3_albany_edu/EnBnAYRA2tRJr4smWCx4y8ABHC_EPR5HifOx8wja4Mae-A?e=daun9h"><b>Reports:</b></a>
 
 <b>Job Analysis Report:</b> This was a solo project completed during a course on personnel psychology. I completed a job analysis for peer tutors, which involved compiling information froma variety of sources (<a href="https://www.onetonline.org/">O-Net online</a>, interviews, surveys, and my own experience) and conductingan anlysis of job-relevant knowledge, skills, abilities, and other characteristics (KSAOs) relevant to the job title of peer tutor. The report was the final deliverable.
 
